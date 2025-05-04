@@ -104,7 +104,7 @@ export default function AboutPage() {
                 <div className="absolute -bottom-4 -left-4 hidden md:block">
                   <div className="spotify-card p-4">
                     <p className="font-medium text-muted-foreground">Years of Excellence</p>
-                    <p className="text-3xl font-bold text-primary">14+</p>
+                    <p className="text-3xl font-bold text-primary">15+</p>
                   </div>
                 </div>
               </div>
