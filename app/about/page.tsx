@@ -317,7 +317,7 @@ export default function AboutPage() {
                   <div className="flex justify-center mb-3">
                     <Code className="h-8 w-8 text-primary" />
                   </div>
-                  <p className="text-3xl md:text-4xl font-bold text-primary">350+</p>
+                  <p className="text-3xl md:text-4xl font-bold text-primary">200+</p>
                   <p className="text-sm text-muted-foreground">Projects Completed</p>
                 </div>
                 
@@ -333,7 +333,7 @@ export default function AboutPage() {
                   <div className="flex justify-center mb-3">
                     <Clock className="h-8 w-8 text-primary" />
                   </div>
-                  <p className="text-3xl md:text-4xl font-bold text-primary">14+</p>
+                  <p className="text-3xl md:text-4xl font-bold text-primary">15+</p>
                   <p className="text-sm text-muted-foreground">Years Experience</p>
                 </div>
               </div>
